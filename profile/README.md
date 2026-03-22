@@ -19,6 +19,18 @@ The **FBOT Robotics Research Group** is part of the Research Group in Automation
 
 ---
 
+## Repositories
+
+The following repositories contain source code, datasets, and tools associated with our published work and ongoing research.
+
+| Repository | Description | Related Publication | Status |
+|---|---|---|---|
+| [`shark_mb`](https://github.com/FBOT-Research/Open_MICKY) | SHARK Mobile Base | SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2026) | 🟢 Active |
+| [`Open_MICKY`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
+<!-- | [`repo_name`](#) | Brief description | Paper Title (Year) or — | 🟢 Active / 🟡 In Development / 🔴 Archived | -->
+
+---
+
 ## Publications
 
 The table below lists publications produced by the FBOT group. We encourage the community to cite the relevant work when building upon our contributions.
@@ -33,18 +45,6 @@ The table below lists publications produced by the FBOT group. We encourage the 
 | 2024 | *SHARK: Stable Hoverboard-driven Autonomous Robot Kit* | V BRAHUR / VI BRASERO | [PDF](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/) |
 | 2023 | *Jubileo: An Immersive Simulation Framework for Social Robot Design* | Journal of Intelligent & Robotic Systems | [Springer](https://link.springer.com/article/10.1007/s10846-023-01991-3) |
 <!-- | YYYY | *Paper Title* | Venue / Conference | [Link](#) | -->
-
----
-
-## Repositories
-
-The following repositories contain source code, datasets, and tools associated with our published work and ongoing research.
-
-| Repository | Description | Related Publication | Status |
-|---|---|---|---|
-| [`shark_mb`](https://github.com/FBOT-Research/Open_MICKY) | SHARK Mobile Base | SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2026) | 🟢 Active |
-| [`Open_MICKY`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
-<!-- | [`repo_name`](#) | Brief description | Paper Title (Year) or — | 🟢 Active / 🟡 In Development / 🔴 Archived | -->
 ---
 
 ## Acknowledgements
