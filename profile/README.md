@@ -35,7 +35,7 @@ The following repositories contain source code, datasets, and tools associated w
 
 The table below lists publications produced by the FBOT group. We encourage the community to cite the relevant work when building upon our contributions.
 
-| Year | Title | Venue | Link |
+| Year | Title | Published In | Link |
 |---|---|---|---|
 | 2026 | *AffordGen: Affordance-Based Dataset Generator for Robot Manipulation Learning* | IEEE ICAR 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11338672) |
 | 2025 | *Review of Surface Reconstruction: From Classical Methods to Neural Radiance Fields* | IEEE CROS 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11066131) |
