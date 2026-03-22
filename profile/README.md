@@ -25,7 +25,7 @@ The following repositories contain source code, datasets, and tools associated w
 
 | Repository | Description | Related Publication | Status |
 |---|---|---|---|
-| [`shark_mb`](https://github.com/FBOT-Research/Open_MICKY) | SHARK Mobile Base | SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2026) | 🟢 Active |
+| [`shark_mb`](https://github.com/FBOT-Research/Open_MICKY) | SHARK Mobile Base | SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2024) | 🟢 Active |
 | [`Open_MICKY`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
 <!-- | [`repo_name`](#) | Brief description | Paper Title (Year) or — | 🟢 Active / 🟡 In Development / 🔴 Archived | -->
 
