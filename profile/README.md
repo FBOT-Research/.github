@@ -29,12 +29,9 @@ The table below lists publications produced by the FBOT group. We encourage the 
 | 2025 | *Review of Surface Reconstruction: From Classical Methods to Neural Radiance Fields* | IEEE CROS 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11066131) |
 | 2025 | *Review of Animatronic Faces Focusing on Human-Robot Interaction* | IEEE CROS 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11066120) |
 | 2025 | *Teach and Repeat for Path Planning Using Bézier Curves* | IEEE SBR 2024 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10837801) |
-| 2025 | *Digital Environment Description and Reconstruction Using Panoptic Segmentation* | RoboCup Symposium 2024 (Springer LNAI) | [Springer](https://link.springer.com/chapter/10.1007/978-3-031-85859-8_20) |
+| 2025 | *Digital Environment Description and Reconstruction Using Panoptic Segmentation* | RoboCup Symposium 2024 | [Springer](https://link.springer.com/chapter/10.1007/978-3-031-85859-8_20) |
 | 2024 | *SHARK: Stable Hoverboard-driven Autonomous Robot Kit* | V BRAHUR / VI BRASERO | [PDF](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/) |
-| 2022 | *Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction* | arXiv / IEEE LARS 2022 | [arXiv](https://arxiv.org/abs/2209.13509) |
-| 2021 | *The Improvement of the Domestic Robot DoRIS 2021* | RoboCup@Home TDP | [PDF](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link) |
-| 2020 | *The Improvement of the Domestic Robot DoRIS 2020* | RoboCup@Home TDP | [PDF](https://drive.google.com/file/d/1G-0Rcb5Mnor76NUb6_ri0i55t7GOYg_X/view?usp=share_link) |
-| 2019 | *The Improvement of the Domestic Robot DoRIS* | RoboCup@Home TDP | [PDF](https://even3.blob.core.windows.net/anais/384160.pdf) |
+| 2023 | *Jubileo: An Immersive Simulation Framework for Social Robot Design* | Journal of Intelligent & Robotic Systems | [Springer](https://link.springer.com/article/10.1007/s10846-023-01991-3) |
 <!-- | YYYY | *Paper Title* | Venue / Conference | [Link](#) | -->
 
 ---
