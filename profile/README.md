@@ -25,7 +25,7 @@ The following repositories contain source code, datasets, and tools associated w
 
 | Repository | Description | Related Publication | Status |
 |---|---|---|---|
-| [`shark_mb`](https://github.com/fbotathome/shark_mb) | SHARK Mobile Base | SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2024) | 🟢 Active |
+| [`shark_mb`](https://github.com/fbotathome/shark_mb) | SHARK Mobile Base | [SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2024)](#pub-shark) | 🟢 Active |
 | [`Open_MICKY`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
 <!-- | [`repo_name`](#) | Brief description | Paper Title (Year) or — | 🟢 Active / 🟡 In Development / 🔴 Archived | -->
 
@@ -42,7 +42,7 @@ The table below lists publications produced by the FBOT group. We encourage the 
 | 2025 | *Review of Animatronic Faces Focusing on Human-Robot Interaction* | IEEE CROS 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/document/11066120) |
 | 2025 | *Teach and Repeat for Path Planning Using Bézier Curves* | IEEE SBR 2024 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10837801) |
 | 2025 | *Digital Environment Description and Reconstruction Using Panoptic Segmentation* | RoboCup Symposium 2024 | [Springer](https://link.springer.com/chapter/10.1007/978-3-031-85859-8_20) |
-| 2024 | *SHARK: Stable Hoverboard-driven Autonomous Robot Kit* | V BRAHUR / VI BRASERO | [PDF](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/) |
+| 2024 | <a id="pub-shark"></a>*SHARK: Stable Hoverboard-driven Autonomous Robot Kit* | V BRAHUR / VI BRASERO | [PDF](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/) |
 | 2023 | *Jubileo: An Immersive Simulation Framework for Social Robot Design* | Journal of Intelligent & Robotic Systems | [Springer](https://link.springer.com/article/10.1007/s10846-023-01991-3) |
 <!-- | YYYY | *Paper Title* | Venue / Conference | [Link](#) | -->
 ---
