@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/fbotathome">FBOT@Home</a> ·
-  <a href="#">FBOT@Work</a> ·
+  <a href="https://github.com/FBOTWork/">FBOT@Work</a> ·
   <a href="#">Website</a> ·
-  <a href="#">Contact</a>
+  <a href="https://github.com/fbot-research#contact">Contact</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ The following repositories contain source code, datasets, and tools associated w
 | Repository | Description | Related Publication | Status |
 |---|---|---|---|
 | [`shark_mb`](https://github.com/fbotathome/shark_mb) | SHARK Mobile Base | [SHARK: Stable Hoverboard-driven Autonomous Robot Kit (2024)](#pub-shark) | 🟢 Active |
-| [`Open_MICKY`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
+| [`open_micky`](https://github.com/FBOT-Research/Open_MICKY) | Open MICKY | | 🟡 In Development |
 <!-- | [`repo_name`](#) | Brief description | Paper Title (Year) or — | 🟢 Active / 🟡 In Development / 🔴 Archived | -->
 
 ---
